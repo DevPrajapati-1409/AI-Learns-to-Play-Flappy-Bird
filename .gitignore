@@ -1,4 +1,4 @@
 __pycache__/
 .idea/
-.hello.py/
-.main.py/
+./hello.py/
+./main.py/
